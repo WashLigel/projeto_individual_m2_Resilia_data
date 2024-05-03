@@ -8,7 +8,7 @@ Colaborador
 
 ## 2 - Quais são os principais campos e seus respectivos tipos?
 
-!{diagrama}[https://github.com/WashLigel/projeto_individual_m2_Resilia_data/blob/main/img%20diagram.PNG]
+![diagrama]{https://github.com/WashLigel/projeto_individual_m2_Resilia_data/blob/main/img%20diagram.PNG}
 
 Para a entidade Tecnologia:
 Id: int (chave primária)
